@@ -1,0 +1,5 @@
+{
+    "MI.JAVA_HOME": "/Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home",
+    "MI.SERVER_PATH": "/Users/poorna/.wso2-mi/micro-integrator/wso2mi-4.4.0",
+    "MI.suppressServerUpdateNotification": true
+}
